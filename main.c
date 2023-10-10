@@ -2,7 +2,7 @@
 /*
                     Documentation Part
 ===================================================================
- @file           : testing.c
+ @file           : main.c
  @author         : marwan mohamed
  @brief          : contains the main user interface
 ===================================================================
