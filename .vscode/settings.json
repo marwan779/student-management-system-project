@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "cstdarg": "c",
+        "cstdio": "c",
+        "student.h": "c",
+        "windows.h": "c",
+        "time.h": "c",
+        "unistd.h": "c",
+        "algorithm": "c",
+        "stdbool.h": "c",
+        "limits": "c"
+    }
+}
